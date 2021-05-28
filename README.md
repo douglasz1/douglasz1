@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  💼 Tools: <strong>Visual Studio Code, Docker, Git and GitHub.</strong>
+  💼 Tools: <strong>PHPStorm, Visual Studio Code, Docker, Git and GitHub.</strong>
 </p>
 
 <p align="left">
