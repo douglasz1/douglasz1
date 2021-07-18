@@ -11,12 +11,3 @@
 <p align="left">
   💼 Tools: <strong>PHPStorm, Visual Studio Code, Docker, Git and GitHub.</strong>
 </p>
-
-<p align="left">
-  💌 If you want to carry out an project with me (or make small talk), don't hesitate to send me a message: ⤵️
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/douglasdna/" /></a>
-
-</p>  
